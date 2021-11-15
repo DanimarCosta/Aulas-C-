@@ -8,3 +8,7 @@
 
 <h2>Open Source Hardware</h2>
 <p>Os algoritmos foram feitos para o microcontrolador Arduino</p>
+
+<div>
+  <img src="https://vs.co/6adabfb9">
+</div>
