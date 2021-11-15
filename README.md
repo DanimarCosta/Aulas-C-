@@ -10,5 +10,5 @@
 <p>Os algoritmos foram feitos para o microcontrolador Arduino</p>
 
 <div>
-  <img src="https://vs.co/6adabfb9">
+  <img src="https://s3-sa-east-1.amazonaws.com/robocore-lojavirtual/773/Julieta_infos-01.png">
 </div>
